@@ -1,1 +1,2 @@
 # Age-and-Gender-Detection-using-python-and-OpenCv-library
+This project on detecting the gender and predicting the age identified as a classification challenge, used Machine Learning and Computer Vision skills to work. The goal is to create a system that can analyze a person’s photograph and determine their age and gender. Python and the OpenCV library to implement Convolutional Neural Networks can be used for this entertaining project. 
